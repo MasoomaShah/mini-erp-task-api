@@ -1,5 +1,3 @@
-# mini-erp-task-api
-
 
 # Mini ERP Task API
 
